@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! 👋
+
+🔭 Atualmente estou trabalhando 
+
+Github Badge Linkedin Badge Twitter Badge Whatsapp Badge Gmail Badge
+
+Top Langs
 
 <!--
 **douglas541/douglas541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
