@@ -2,8 +2,6 @@
 
 🔭 Atualmente estou trabalhando 
 
-Github Badge Linkedin Badge Twitter Badge Whatsapp Badge Gmail Badge
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas541)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
