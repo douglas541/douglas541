@@ -1,6 +1,11 @@
-### Olá! 👋
+### 👨‍💻 Douglas Sousa Jorge
 
-🔭 Atualmente estou trabalhando 
+## 👋 Olá! 
+
+# Meu nome é Douglas Sousa e eu sou apaixonado por aprender novas tecnologias, em especial aquelas voltadas ao Front-End!
+
+📍 Moro em Aparecida de Goiânia-GO.
+🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas541&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
