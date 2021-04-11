@@ -18,8 +18,10 @@
 * 🌱 Estudando React e NextJS.
 
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas541&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   ![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=douglas541&show_icons=true&count_private=true)
+  
 </div>
 
 
