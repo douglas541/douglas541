@@ -7,9 +7,6 @@
   [![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:douglas.sousa541@hotmail.com)](douglas.sousa541@hotmail.com)
   
 </div>
-<!--
-<h2 align="center">👋 Olá!</h2>
--->
 
 <h3 align="center">👋 Olá! Meu nome é Douglas Sousa e eu sou apaixonado por aprender novas tecnologias, em especial aquelas voltadas ao Front-End!</h3>
 
