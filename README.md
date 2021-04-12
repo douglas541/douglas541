@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Douglas Sousa Jorge</h1>
+<h1 align="center">Douglas Sousa Jorge</h1>
 
 <div align="center">
   
