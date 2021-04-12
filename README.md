@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/douglas-sousa-jorge-938250200/)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562993324224&text=Olá!)](https://api.whatsapp.com/send?phone=5562998601328&text=Olá!)
-  [![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:douglas.sousa541@hotmail.com)](mailto:douglas.sousa541@hotmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/douglas-sousa-jorge-938250200/)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=social&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562993324224&text=Olá!)](https://api.whatsapp.com/send?phone=5562998601328&text=Olá!)
+  [![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=social&logo=microsoft-outlook&logoColor=white&link=mailto:douglas.sousa541@hotmail.com)](mailto:douglas.sousa541@hotmail.com)
   
 </div>
 
