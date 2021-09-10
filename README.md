@@ -12,6 +12,7 @@
 
 * 📍 Residente de Aparecida de Goiânia-GO.
 * 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
+* 🚀 Equipe vencedora da primeira etapa da OBSAT em Goiás, segunda etapa em andamento.
 * 🔭 Atualmente trabalhando em projeto que visa a orientação de pequenas empresas a respeito da LGPD.
 * 🌱 Estudando React e NextJS.
 
