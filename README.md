@@ -8,7 +8,7 @@
   
 </div>
 
-<h3 align="center">👋 Olá! Meu nome é Douglas Sousa e eu sou apaixonado por aprender novas tecnologias, em especial aquelas voltadas ao Front-End!</h3>
+<h3 align="center">👋 Olá! Meu nome é Douglas Sousa e eu sou apaixonado por tecnologia!</h3>
 
 * 📍 Residente de Aparecida de Goiânia-GO.
 * 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
