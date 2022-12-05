@@ -13,7 +13,7 @@
 * 📍 Residente de Aparecida de Goiânia-GO.
 * 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
 * 🚀 Equipe vencedora da primeira etapa da OBSAT em Goiás, segunda etapa em andamento.
-* 🌱 Estudando C#, .NET, React, Next.js e TS.
+* 🌱 Estudando C# e .NET.
 
 <div align="center">
   
