@@ -10,10 +10,10 @@
 
 <h3 align="center">👋 Olá! Meu nome é Douglas Sousa e eu sou apaixonado por tecnologia!</h3>
 
-* 📍 Residente de Aparecida de Goiânia-GO.
+* 📍 Residente de Goiânia-GO.
 * 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
 * 🚀 Equipe vencedora da primeira etapa da OBSAT em Goiás, segunda etapa em andamento.
-* 🌱 Estudando C#, .NET, Unity 3D e Vue.js.
+* 🌱 Estudando C#, .NET, Node.js, SQL e Python.
 
 <div align="center">
   
