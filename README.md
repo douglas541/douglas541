@@ -8,7 +8,7 @@
   
 </div>
 
-<h3 align="center">👋 Olá! Meu nome é Douglas Sousa e eu sou apaixonado por tecnologia!</h3>
+<h3 align="center">👋 Olá! Meu nome é Douglas Jorge!</h3>
 
 * 📍 Residente de Goiânia-GO.
 * 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
