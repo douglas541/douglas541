@@ -11,15 +11,9 @@
 <h3 align="center">👋 Olá! Meu nome é Douglas Jorge!</h3>
 
 * 📍 Residente de Goiânia-GO.
-* 🎓 Cursando Ciência da Computação na Universidade Federal de Goiás.
+* 🎓 Graduado em Ciência da Computação na Universidade Federal de Goiás.
 * 🚀 Equipe vencedora da primeira etapa da OBSAT em Goiás, segunda etapa em andamento.
-* 🌱 Estudando C#, .NET, Node.js, SQL e Python.
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas541&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+* 🌱 C#, .NET, Node.js, SQL e Python.
 
 
 <!--
